@@ -1,6 +1,6 @@
 # My keymap for Sofle Keyboard
 
-Features:
+Original Features:
 
 - Symmetric modifiers (CMD/Super, Alt/Opt, Ctrl, Shift)
 - Various modes, can be switched (using Adjust layer and the selected one is stored in EEPROM.
@@ -11,3 +11,8 @@ Features:
 
 Do check out original creator :)
 https://josefadamcik.github.io/SofleKeyboard/
+
+## my changes
+- `=` in upper right instead of `` ` ``
+- `_` on z in lower layer instead of `+`
+- removed colemak support
