@@ -16,3 +16,7 @@ https://josefadamcik.github.io/SofleKeyboard/
 - `=` in upper right instead of `` ` ``
 - `_` on z in lower layer instead of `+`
 - removed colemak support
+- swapped enter and space
+- removed right ctrl and sys in favor of `-` and `\`
+- added home and end on lower layer
+- swaped keys in left control group to resemble regular keyboard
