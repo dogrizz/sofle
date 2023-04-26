@@ -20,3 +20,9 @@ https://josefadamcik.github.io/SofleKeyboard/
 - removed right ctrl and sys in favor of `-` and `\`
 - added home and end on lower layer
 - swaped keys in left control group to resemble regular keyboard
+- pgup and pgdn on lower layer
+- added reset on adj - r 
+- moved caps to adj - c
+- moved sq braces to lower - o, p
+- moved crly braces to lower - l, ;
+- added rgb support
