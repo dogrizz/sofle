@@ -8,6 +8,7 @@ for more options.
 #define RGBLED_NUM 8
 #define RGB_SPLIT { 4, 4 }
 #define RGBLIGHT_SPLIT
+#define RGBLIGHT_SLEEP
 #define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_RGB
 #define WS2812_TRST_US WS2812_TIMING
  
