@@ -92,7 +92,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |------+------+------+------+------+------|                    |------+------+------+------+------+-------|
  * |RGB_TG|RGB_VA|MACWIN|      |      |      |-------.    ,-------|      | VOLDO| MUTE | VOLUP|      |       |
  * |------+------+------+------+------+------|  MUTE |    |       |------+------+------+------+------+-------|
- * |RGB_MD|RGB_HU|      |CPSLK |      |      |-------|    |-------|      | PREV | PLAY | NEXT |      |       |
+ * |RGB_MD|RGB_HU|      |CPSLK |      |      |-------|    |-------|      | PREV | PLAY | NEXT |      | Shift |
  * `-----------------------------------------/       /     \      \------------------------------------------'
  *            | LGUI | LAlt | LCTR |LOWER | /Enter  /       \Space \  |RAISE | RCTR | RAlt | RGUI |
  *            |      |      |      |      |/       /         \      \ |      |      |      |      |
@@ -102,7 +102,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   XXXXXXX , XXXXXXX,  XXXXXXX ,  XXXXXXX , XXXXXXX, XXXXXXX,                     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
   QK_BOOT  , RGB_SAI,KC_QWERTY,XXXXXXX,QK_BOOT,XXXXXXX,                     XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
   RGB_TOG , RGB_VAI,CG_TOGG, XXXXXXX,    XXXXXXX,  XXXXXXX,                     XXXXXXX, KC_VOLD, KC_MUTE, KC_VOLU, XXXXXXX, XXXXXXX,
-  RGB_MOD , RGB_HUI, XXXXXXX, KC_CAPS,    XXXXXXX,  XXXXXXX, XXXXXXX,     XXXXXXX, XXXXXXX, KC_MPRV, KC_MPLY, KC_MNXT, XXXXXXX, XXXXXXX,
+  RGB_MOD , RGB_HUI, XXXXXXX, KC_CAPS,    XXXXXXX,  XXXXXXX, XXXXXXX,     XXXXXXX, XXXXXXX, KC_MPRV, KC_MPLY, KC_MNXT, XXXXXXX, _______,
                    _______, _______, _______, _______, _______,     _______, _______, _______, _______, _______
   )
 };
