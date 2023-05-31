@@ -26,4 +26,4 @@ https://josefadamcik.github.io/SofleKeyboard/
 - moved sq braces to lower - o, p
 - moved crly braces to lower - l, ;
 - added rgb support
-- bongo cat based on https://github.com/nwii/oledbongocat/tree/main
+- mouse
