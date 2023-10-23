@@ -12,18 +12,3 @@ Original Features:
 Do check out original creator :)
 https://josefadamcik.github.io/SofleKeyboard/
 
-## my changes
-- `=` in upper right instead of `` ` ``
-- `_` on z in lower layer instead of `+`
-- removed colemak support
-- swapped enter and space
-- removed right ctrl and sys in favor of `-` and `\`
-- added home and end on lower layer
-- swaped keys in left control group to resemble regular keyboard
-- pgup and pgdn on lower layer
-- added reset on adj - r 
-- moved caps to adj - c
-- moved sq braces to lower - o, p
-- moved crly braces to lower - l, ;
-- added rgb support
-- bongo cat based on https://github.com/nwii/oledbongocat/tree/main
