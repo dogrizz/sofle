@@ -4,14 +4,14 @@
 see https://docs.qmk.fm/#/feature_split_keyboard?id=setting-handedness
 for more options.
 */
-#define RGB_DI_PIN D3
-#define RGBLED_NUM 8
+#undef RGBLIGHT_LED_COUNT
+#undef RGB_SPLIT
+#define RGBLIGHT_LED_COUNT 8
 #define RGB_SPLIT { 4, 4 }
 #define RGBLIGHT_SPLIT
 #define RGBLIGHT_SLEEP
 #define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_RGB
 #define WS2812_TRST_US WS2812_TIMING
-#define WS2812_DI_PIN RGB_DI_PIN
 #define NO_ACTION_ONESHOT
 #define NO_ACTION_TAPPING
  
